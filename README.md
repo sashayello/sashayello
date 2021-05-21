@@ -4,7 +4,7 @@
 
 My name Alex lobanov. _I am from frontend Developer from Ukraine_ — 🇺🇦
 
-I am currently working on [dotsplatform](https://dotsplatform.comp). ASAP I will be realese a lib/framework for fast deployment NodeJS API - _FiberAPI_.
+I am currently working on [dotsplatform](https://dotsplatform.com). ASAP I will be realese a lib/framework for fast deployment NodeJS API - _FiberAPI_.
 
 You can read me on [Telegram](https://t.me/sashkayello).
 
