@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sergeysova.sergeysova)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sashayello.sashayello)
 
 My name Alex lobanov. _I am from frontend Developer from Ukraine_ — 🇺🇦
 
