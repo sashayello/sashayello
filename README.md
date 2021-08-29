@@ -2,7 +2,9 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sashayello.sashayello)
 
-My name Alexandr lobanov. _I am from frontend Developer from Ukraine_ — 🇺🇦
+My name Alexandr Lobanov.
+
+_I am from frontend Developer from Ukraine_ — 🇺🇦
 
 I am currently working in [dotsplatform](https://dotsplatform.com). 
 
