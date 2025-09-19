@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sashayello.sashayello)
-
 My name Alexandr Lobanov.
 
 _I am from frontend Developer from Ukraine_ — 🇺🇦
